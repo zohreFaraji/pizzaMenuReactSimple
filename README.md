@@ -1,7 +1,8 @@
 # pizzaMenuReactSimple
 
-![10](https://github.com/user-attachments/assets/edae541d-7b42-4831-a580-c64b4f589894)
-![16](https://github.com/user-attachments/assets/f62fcf14-b33b-4203-8b20-df779372a956)
+![24](https://github.com/user-attachments/assets/4f46ce8d-ef85-4b01-b69f-a8874dc22d85)
+![21](https://github.com/user-attachments/assets/89aa3892-ba18-4c28-a05b-542107d31b35)
+![22](https://github.com/user-attachments/assets/616af177-1ead-484a-9091-e542b80519ff)
 
 **You can see information about my project**
 - [Demo Project](https://pizza-menu-react-xi.vercel.app/)
